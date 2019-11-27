@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".StorageActivity">
+
+    <Button
+        android:id="@+id/btn_main_manu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_menu"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"/>
+
+    <ListView
+        android:id="@+id/list_item_quote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20sp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="20sp"
+        android:layout_marginBottom="80dp"
+        android:gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Quotes GeneratorCollector</string>
+    <string name="random_quotes_generator_collector"><![CDATA[Random Quotes Generator && Collector]]></string>
+    <string name="enter_a_new_quote">Enter A New Quote</string>
+    <string name="generate_toast_quote">Generate Toast Quote</string>
+    <string name="generate_quote_at_bottom">Generate Quote At Bottom</string>
+    <string name="show_all_quotes">Show All Quotes</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_quote_below">Please Enter Quote Below</string>
+    <string name="enter_quote_here">Enter Quote Here</string>
+</resources>
